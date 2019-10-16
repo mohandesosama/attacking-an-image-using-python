@@ -1,4 +1,4 @@
-# attacking-and-image-using-python
+# Attacking an image using python
 attacking and image using python
 
 This is mainly the code created for my paper 
